@@ -26,7 +26,7 @@ This is the backend server for Shopify E-Commerce Web Application built using No
 
 - Multer
 
-- Stripe
+- Paypal
 
 - CORS
 
