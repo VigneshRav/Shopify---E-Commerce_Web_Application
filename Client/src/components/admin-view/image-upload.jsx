@@ -106,7 +106,7 @@ function ProductImageUpload({
   return (
     <div className="w-full mt-4 max-w-md mx-auto">
       <Label className="text-lg font-semibold mb-2 block">
-        Upload Image
+        Upload Highlights
       </Label>
 
       <div
