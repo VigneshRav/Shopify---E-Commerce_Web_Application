@@ -199,9 +199,9 @@ This is the backend server for Shopify E-Commerce Web Application built using No
 
 ## 🔐 Authentication & Authorization:-
 
-- Clerk middleware (if integrated)
+- Auth middleware
 
-- Role-based access control (Recruiter / Job Seeker)
+- Role-based access control (User / Seller)
 
 ---
 
@@ -209,11 +209,17 @@ This is the backend server for Shopify E-Commerce Web Application built using No
 
 - User
 
-- Company
+- Product
 
-- Jobs
+- Cart
 
-- Job Applications
+- Order
+
+- Feature
+
+- Address
+
+- Review
 
 ---
 
